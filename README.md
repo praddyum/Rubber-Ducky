@@ -17,6 +17,9 @@ A Rubber Ducky is simply a device(generally USB) which is programmed such that i
     - [Aurdino IDE](https://www.arduino.cc/en/software) in case we are using Aurdino as our device
     - Example Scripts - [Link](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads)
     - [Aurdino Script Generator](https://techchip.net/ducky/) in case we using Aurdino as our device
+
+3.  Target Device
+    - **Linux**
  
  ## What I did in this project?
  
